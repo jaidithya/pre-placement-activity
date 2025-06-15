@@ -1,1 +1,1 @@
-# pre-placement-activity
+#Schema of the POS Project
